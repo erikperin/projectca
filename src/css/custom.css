@@ -1,0 +1,33 @@
+html, body {
+  font-family: 'pingpong-regular', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'pingpong-regular', sans-serif !important;
+}
+
+.uk-button-primary {
+  background-color: #3ebb59 !important;
+  color: white !important;
+  text-transform: none !important;
+}
+
+.uk-button {
+  text-transform: none !important;
+}
+
+.uk-input {
+  background-color: white !important;
+  color: black !important;
+}
+
+::placeholder {
+  color: #666 !important;
+  opacity: 1 !important;
+}
+
+
+.errorform {
+
+  border:2px solid red !important;
+}

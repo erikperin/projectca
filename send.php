@@ -1,6 +1,4 @@
 <?php
-
-
 $servidor = "SERVIDOR_DO_BANCO";
 $login = "LOGIN_DO_BANCO";
 $senha = "SENHA_DO_BANCO";
